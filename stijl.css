@@ -1,0 +1,64 @@
+
+nav{
+	display: block;
+	opacity: 0.8;
+	border: 5px solid white;
+	margin: 50px;
+}
+nav a{
+	color: #A0E53C;
+	font-size: 20px;
+	text-decoration: none;
+	margin: 20px;
+}
+body{
+	background-image: url(img/achtergrond.jpg);
+
+}
+footer{
+	border-bottom: 1px solid black;
+}
+.inloggen{
+	height: 500px;
+	width: 50%;
+	margin: auto;
+	border-radius: 40px;
+	border: 10px solid #A0E53C;
+	background-color: white;
+
+}
+.inputInloggen{
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	width: 60%;
+	height: 80px;
+	border: 2px solid white;
+	border-radius: 40px;
+	background-color: #A0E53C;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+::placeholder{
+	text-align: center;
+	color: white;
+}
+th, td{
+	background-color: white;
+	border: 5px solid #A0E53C;
+	border-radius: 10px;
+	color: #A0E53C;
+	padding: 10px;
+}
+.table{
+	border: 10px solid #A0E53C;
+	border-radius: 15px;
+	color: #A0E53C;
+	padding: 30px;
+}
+
+
+
+
